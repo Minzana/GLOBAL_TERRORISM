@@ -1,0 +1,13 @@
+region_txt,risk_2013,risk_2017,attacks_2013,attacks_2017,attacks_pct_change,killed_2013,killed_2017,killed_pct_change,trend
+Western Europe,0.004,0.014,261.0,291.0,11.5,7.0,83.0,1085.7,Rising
+Central Asia,0.004,0.011,7.0,7.0,0.0,2.0,6.0,200.0,Mixed
+North America,0.03,0.021,32.0,97.0,203.1,70.0,124.0,77.1,Rising
+Sub-Saharan Africa,0.052,0.065,999.0,1970.0,97.2,3857.0,6712.0,74.0,Rising
+Southeast Asia,0.04,0.042,1188.0,1020.0,-14.1,723.0,811.0,12.2,Mixed
+South Asia,0.158,0.162,4612.0,3430.0,-25.6,7070.0,7664.0,8.4,Mixed
+Middle East & North Africa,0.092,0.113,4560.0,3780.0,-17.1,10164.0,10819.0,6.4,Mixed
+Eastern Europe,0.006,0.006,165.0,110.0,-33.3,151.0,101.0,-33.1,Declining
+South America,0.01,0.008,182.0,172.0,-5.5,160.0,101.0,-36.9,Declining
+Central America & Caribbean,0.006,0.019,14.0,4.0,-71.4,9.0,4.0,-55.6,Declining
+East Asia,0.021,0.019,15.0,7.0,-53.3,60.0,16.0,-73.3,Declining
+Australasia & Oceania,0.0,0.007,1.0,12.0,1100.0,0.0,4.0,,Rising

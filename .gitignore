@@ -1,0 +1,13 @@
+# Raw dataset: too large for GitHub (over 100 MB) and shared under its own terms.
+# Download it from the GTD website instead (see README).
+globalterrorism*.csv
+gt_utf8.csv
+
+# Secrets and local files
+.env
+*.env
+
+# Python / editor
+__pycache__/
+*.pyc
+.vscode/

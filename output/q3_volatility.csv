@@ -1,0 +1,21 @@
+country_txt,avg_risk,volatility,volatility_ratio,risk_pattern
+Iraq,0.811,0.047,0.06,Steady
+Afghanistan,0.488,0.149,0.31,Steady
+Pakistan,0.43,0.202,0.47,Steady
+India,0.229,0.107,0.47,Steady
+Nigeria,0.22,0.13,0.59,Steady
+Syria,0.167,0.107,0.64,Volatile
+Somalia,0.156,0.046,0.29,Steady
+Yemen,0.138,0.067,0.48,Steady
+Democratic Republic of the Congo,0.12,0.077,0.64,Volatile
+Philippines,0.11,0.026,0.23,Steady
+South Sudan,0.102,0.103,1.01,Volatile
+Thailand,0.085,0.037,0.44,Steady
+Central African Republic,0.079,0.064,0.81,Volatile
+China,0.076,0.061,0.8,Volatile
+Ethiopia,0.065,0.057,0.88,Volatile
+Niger,0.061,0.057,0.95,Volatile
+Russia,0.059,0.041,0.7,Volatile
+Sudan,0.058,0.025,0.43,Steady
+Chad,0.057,0.079,1.39,Volatile
+Egypt,0.053,0.054,1.02,Volatile

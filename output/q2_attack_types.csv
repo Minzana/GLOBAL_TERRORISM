@@ -1,0 +1,10 @@
+attack_type,attacks,pct_of_attacks,total_killed,pct_of_deaths,killed_per_attack,disproportion_ratio
+Hijacking,659,0.4,3718.0,0.9,5.64,2.49
+Hostage Taking (Barricade Incident),991,0.5,4478.0,1.1,4.52,1.99
+Unknown,7276,4.0,32381.0,7.9,4.45,1.96
+Armed Assault,42669,23.5,160297.0,38.9,3.76,1.66
+Hostage Taking (Kidnapping),11158,6.1,24231.0,5.9,2.17,0.96
+Bombing/Explosion,88255,48.6,157321.0,38.2,1.78,0.79
+Assassination,19312,10.6,24920.0,6.1,1.29,0.57
+Unarmed Assault,1015,0.6,880.0,0.2,0.87,0.38
+Facility/Infrastructure Attack,10356,5.7,3642.0,0.9,0.35,0.16

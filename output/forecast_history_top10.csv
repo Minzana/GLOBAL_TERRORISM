@@ -1,0 +1,111 @@
+country_txt,year,risk_score,type
+Iraq,2008,0.824,Actual
+Afghanistan,2008,0.324,Actual
+Pakistan,2008,0.388,Actual
+India,2008,0.322,Actual
+Nigeria,2008,0.048,Actual
+Syria,2008,0.172,Actual
+Somalia,2008,0.144,Actual
+Yemen,2008,0.052,Actual
+Democratic Republic of the Congo,2008,0.2,Actual
+Philippines,2008,0.14,Actual
+Iraq,2009,0.818,Actual
+Afghanistan,2009,0.356,Actual
+Pakistan,2009,0.484,Actual
+India,2009,0.364,Actual
+Nigeria,2009,0.12,Actual
+Syria,2009,0.0,Actual
+Somalia,2009,0.128,Actual
+Yemen,2009,0.032,Actual
+Democratic Republic of the Congo,2009,0.262,Actual
+Philippines,2009,0.108,Actual
+Iraq,2010,0.82,Actual
+Afghanistan,2010,0.434,Actual
+Pakistan,2010,0.596,Actual
+India,2010,0.394,Actual
+Nigeria,2010,0.066,Actual
+Syria,2010,0.0,Actual
+Somalia,2010,0.126,Actual
+Yemen,2010,0.14,Actual
+Democratic Republic of the Congo,2010,0.106,Actual
+Philippines,2010,0.104,Actual
+Iraq,2011,0.812,Actual
+Afghanistan,2011,0.484,Actual
+Pakistan,2011,0.68,Actual
+India,2011,0.31,Actual
+Nigeria,2011,0.168,Actual
+Syria,2011,0.078,Actual
+Somalia,2011,0.142,Actual
+Yemen,2011,0.166,Actual
+Democratic Republic of the Congo,2011,0.04,Actual
+Philippines,2011,0.078,Actual
+Iraq,2012,0.68,Actual
+Afghanistan,2012,0.792,Actual
+Pakistan,2012,0.74,Actual
+India,2012,0.182,Actual
+Nigeria,2012,0.356,Actual
+Syria,2012,0.216,Actual
+Somalia,2012,0.204,Actual
+Yemen,2012,0.246,Actual
+Democratic Republic of the Congo,2012,0.206,Actual
+Philippines,2012,0.096,Actual
+Iraq,2013,0.828,Actual
+Afghanistan,2013,0.446,Actual
+Pakistan,2013,0.49,Actual
+India,2013,0.132,Actual
+Nigeria,2013,0.23,Actual
+Syria,2013,0.192,Actual
+Somalia,2013,0.106,Actual
+Yemen,2013,0.112,Actual
+Democratic Republic of the Congo,2013,0.09,Actual
+Philippines,2013,0.124,Actual
+Iraq,2014,0.832,Actual
+Afghanistan,2014,0.366,Actual
+Pakistan,2014,0.298,Actual
+India,2014,0.11,Actual
+Nigeria,2014,0.392,Actual
+Syria,2014,0.216,Actual
+Somalia,2014,0.148,Actual
+Yemen,2014,0.132,Actual
+Democratic Republic of the Congo,2014,0.054,Actual
+Philippines,2014,0.078,Actual
+Iraq,2015,0.824,Actual
+Afghanistan,2015,0.584,Actual
+Pakistan,2015,0.262,Actual
+India,2015,0.148,Actual
+Nigeria,2015,0.406,Actual
+Syria,2015,0.306,Actual
+Somalia,2015,0.148,Actual
+Yemen,2015,0.23,Actual
+Democratic Republic of the Congo,2015,0.054,Actual
+Philippines,2015,0.128,Actual
+Iraq,2016,0.834,Actual
+Afghanistan,2016,0.426,Actual
+Pakistan,2016,0.152,Actual
+India,2016,0.14,Actual
+Nigeria,2016,0.172,Actual
+Syria,2016,0.202,Actual
+Somalia,2016,0.148,Actual
+Yemen,2016,0.138,Actual
+Democratic Republic of the Congo,2016,0.064,Actual
+Philippines,2016,0.094,Actual
+Iraq,2017,0.838,Actual
+Afghanistan,2017,0.666,Actual
+Pakistan,2017,0.206,Actual
+India,2017,0.19,Actual
+Nigeria,2017,0.246,Actual
+Syria,2017,0.284,Actual
+Somalia,2017,0.264,Actual
+Yemen,2017,0.132,Actual
+Democratic Republic of the Congo,2017,0.12,Actual
+Philippines,2017,0.154,Actual
+Iraq,2018,0.827,Forecast
+Afghanistan,2018,0.608,Forecast
+Pakistan,2018,0.195,Forecast
+India,2018,0.075,Forecast
+Nigeria,2018,0.367,Forecast
+Syria,2018,0.311,Forecast
+Somalia,2018,0.197,Forecast
+Yemen,2018,0.194,Forecast
+Democratic Republic of the Congo,2018,0.038,Forecast
+Philippines,2018,0.116,Forecast
